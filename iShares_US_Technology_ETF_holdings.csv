@@ -1,0 +1,147 @@
+﻿Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
+AAPL,APPLE INC,Information Technology,Equity,"2,070,879,668.55",19.78,"2,070,879,668.55","12,296,655.00",168.41,United States,NASDAQ,USD,1,USD,-
+MSFT,MICROSOFT CORP,Information Technology,Equity,"1,885,942,972.44",18.01,"1,885,942,972.44","6,186,868.00",304.83,United States,NASDAQ,USD,1,USD,-
+GOOGL,ALPHABET INC CLASS A,Communication,Equity,"560,554,874.18",5.35,"560,554,874.18","5,210,102.00",107.59,United States,NASDAQ,USD,1,USD,-
+NVDA,NVIDIA CORP,Information Technology,Equity,"491,951,766.94",4.7,"491,951,766.94","1,806,919.00",272.26,United States,NASDAQ,USD,1,USD,-
+GOOG,ALPHABET INC CLASS C,Communication,Equity,"491,007,889.39",4.69,"491,007,889.39","4,530,847.00",108.37,United States,NASDAQ,USD,1,USD,-
+META,META PLATFORMS INC CLASS A,Communication,Equity,"465,630,950.40",4.45,"465,630,950.40","1,951,840.00",238.56,United States,NASDAQ,USD,1,USD,-
+AVGO,BROADCOM INC,Information Technology,Equity,"278,243,066.53",2.66,"278,243,066.53","449,933.00",618.41,United States,NASDAQ,USD,1,USD,-
+CRM,SALESFORCE INC,Information Technology,Equity,"243,610,830.42",2.33,"243,610,830.42","1,243,293.00",195.94,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ADBE,ADOBE INC,Information Technology,Equity,"219,384,051.46",2.1,"219,384,051.46","590,663.00",371.42,United States,NASDAQ,USD,1,USD,-
+TXN,TEXAS INSTRUMENT INC,Information Technology,Equity,"193,750,979.10",1.85,"193,750,979.10","1,172,330.00",165.27,United States,NASDAQ,USD,1,USD,-
+ORCL,ORACLE CORP,Information Technology,Equity,"187,679,099.52",1.79,"187,679,099.52","1,974,738.00",95.04,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AMD,ADVANCED MICRO DEVICES INC,Information Technology,Equity,"182,452,653.76",1.74,"182,452,653.76","2,086,604.00",87.44,United States,NASDAQ,USD,1,USD,-
+QCOM,QUALCOMM INC,Information Technology,Equity,"164,905,579.52",1.57,"164,905,579.52","1,447,556.00",113.92,United States,NASDAQ,USD,1,USD,-
+INTC,INTEL CORPORATION CORP,Information Technology,Equity,"159,711,316.06",1.53,"159,711,316.06","5,348,671.00",29.86,United States,NASDAQ,USD,1,USD,-
+INTU,INTUIT INC,Information Technology,Equity,"152,782,676.64",1.46,"152,782,676.64","356,004.00",429.16,United States,NASDAQ,USD,1,USD,-
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Information Technology,Equity,"147,615,829.88",1.41,"147,615,829.88","1,162,604.00",126.97,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AMAT,APPLIED MATERIAL INC,Information Technology,Equity,"121,404,759.36",1.16,"121,404,759.36","1,087,077.00",111.68,United States,NASDAQ,USD,1,USD,-
+NOW,SERVICENOW INC,Information Technology,Equity,"119,003,458.84",1.14,"119,003,458.84","261,926.00",454.34,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ADI,ANALOG DEVICES INC,Information Technology,Equity,"116,008,062.50",1.11,"116,008,062.50","653,125.00",177.62,United States,NASDAQ,USD,1,USD,-
+LRCX,LAM RESEARCH CORP,Information Technology,Equity,"90,344,975.68",0.86,"90,344,975.68","174,112.00",518.89,United States,NASDAQ,USD,1,USD,-
+MU,MICRON TECHNOLOGY INC,Information Technology,Equity,"86,815,183.30",0.83,"86,815,183.30","1,402,507.00",61.9,United States,NASDAQ,USD,1,USD,-
+CDNS,CADENCE DESIGN SYSTEMS INC,Information Technology,Equity,"73,184,803.82",0.7,"73,184,803.82","352,087.00",207.86,United States,NASDAQ,USD,1,USD,-
+SNPS,SYNOPSYS INC,Information Technology,Equity,"72,503,941.07",0.69,"72,503,941.07","196,813.00",368.39,United States,NASDAQ,USD,1,USD,-
+PANW,PALO ALTO NETWORKS INC,Information Technology,Equity,"71,083,303.20",0.68,"71,083,303.20","383,985.00",185.12,United States,NASDAQ,USD,1,USD,-
+KLAC,KLA CORP,Information Technology,Equity,"68,791,325.44",0.66,"68,791,325.44","178,846.00",384.64,United States,NASDAQ,USD,1,USD,-
+ROP,ROPER TECHNOLOGIES INC,Information Technology,Equity,"61,745,703.80",0.59,"61,745,703.80","136,310.00",452.98,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SNOW,SNOWFLAKE CLASS A,Information Technology,Equity,"59,556,796.56",0.57,"59,556,796.56","400,328.00",148.77,United States,New York Stock Exchange Inc.,USD,1,USD,-
+APH,AMPHENOL CORP CLASS A,Information Technology,Equity,"56,533,237.47",0.54,"56,533,237.47","755,893.00",74.79,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ADSK,AUTODESK INC,Information Technology,Equity,"53,420,339.67",0.51,"53,420,339.67","280,997.00",190.11,United States,NASDAQ,USD,1,USD,-
+FTNT,FORTINET INC,Information Technology,Equity,"52,519,899.36",0.5,"52,519,899.36","832,856.00",63.06,United States,NASDAQ,USD,1,USD,-
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,Equity,"49,330,764.40",0.47,"49,330,764.40","687,058.00",71.8,United States,NASDAQ,USD,1,USD,-
+WDAY,WORKDAY INC CLASS A,Information Technology,Equity,"48,255,400.23",0.46,"48,255,400.23","257,871.00",187.13,United States,NASDAQ,USD,1,USD,-
+MRVL,MARVELL TECHNOLOGY INC,Information Technology,Equity,"42,316,615.42",0.4,"42,316,615.42","1,095,434.00",38.63,United States,NASDAQ,USD,1,USD,-
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,Equity,"39,221,473.73",0.37,"39,221,473.73","662,413.00",59.21,United States,NASDAQ,USD,1,USD,-
+ON,ON SEMICONDUCTOR CORP,Information Technology,Equity,"39,187,260.44",0.37,"39,187,260.44","559,978.00",69.98,United States,NASDAQ,USD,1,USD,-
+HPQ,HP INC,Information Technology,Equity,"37,689,952.96",0.36,"37,689,952.96","1,268,168.00",29.72,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ANSS,ANSYS INC,Information Technology,Equity,"35,337,960.00",0.34,"35,337,960.00","112,184.00",315,United States,NASDAQ,USD,1,USD,-
+CRWD,CROWDSTRIKE HOLDINGS INC CLASS A,Information Technology,Equity,"35,051,984.00",0.33,"35,051,984.00","278,080.00",126.05,United States,NASDAQ,USD,1,USD,-
+VMW,VMWARE CLASS A INC,Information Technology,Equity,"34,313,770.92",0.33,"34,313,770.92","275,812.00",124.41,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GLW,CORNING INC,Information Technology,Equity,"31,098,548.50",0.3,"31,098,548.50","949,574.00",32.75,United States,New York Stock Exchange Inc.,USD,1,USD,-
+IT,GARTNER INC,Information Technology,Equity,"29,972,627.58",0.29,"29,972,627.58","99,106.00",302.43,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CDW,CDW CORP,Information Technology,Equity,"29,322,243.18",0.28,"29,322,243.18","174,506.00",168.03,United States,NASDAQ,USD,1,USD,-
+TEAM,ATLASSIAN CORP CLASS A,Information Technology,Equity,"28,884,003.03",0.28,"28,884,003.03","187,839.00",153.77,United States,NASDAQ,USD,1,USD,-
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,Equity,"26,537,524.55",0.25,"26,537,524.55","59,155.00",448.61,United States,NASDAQ,USD,1,USD,-
+VRSN,VERISIGN INC,Information Technology,Equity,"25,978,980.60",0.25,"25,978,980.60","119,774.00",216.9,United States,NASDAQ,USD,1,USD,-
+HUBS,HUBSPOT INC,Information Technology,Equity,"25,616,673.00",0.24,"25,616,673.00","59,700.00",429.09,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DDOG,DATADOG INC CLASS A,Information Technology,Equity,"24,056,403.35",0.23,"24,056,403.35","342,635.00",70.21,United States,NASDAQ,USD,1,USD,-
+HPE,HEWLETT PACKARD ENTERPRISE,Information Technology,Equity,"23,655,115.44",0.23,"23,655,115.44","1,658,844.00",14.26,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NET,CLOUDFLARE INC CLASS A,Information Technology,Equity,"21,745,508.40",0.21,"21,745,508.40","364,980.00",59.58,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SWKS,SKYWORKS SOLUTIONS INC,Information Technology,Equity,"21,269,649.63",0.2,"21,269,649.63","204,693.00",103.91,United States,NASDAQ,USD,1,USD,-
+PINS,PINTEREST INC CLASS A,Communication,Equity,"20,903,982.12",0.2,"20,903,982.12","766,556.00",27.27,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MDB,MONGODB INC CLASS A,Information Technology,Equity,"20,630,139.00",0.2,"20,630,139.00","85,620.00",240.95,United States,NASDAQ,USD,1,USD,-
+TYL,TYLER TECHNOLOGIES INC,Information Technology,Equity,"20,482,889.40",0.2,"20,482,889.40","53,037.00",386.2,United States,New York Stock Exchange Inc.,USD,1,USD,-
+EPAM,EPAM SYSTEMS INC,Information Technology,Equity,"19,769,224.50",0.19,"19,769,224.50","70,794.00",279.25,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ZM,ZOOM VIDEO COMMUNICATIONS INC CLAS,Information Technology,Equity,"19,434,752.55",0.19,"19,434,752.55","317,095.00",61.29,United States,NASDAQ,USD,1,USD,-
+PAYC,PAYCOM SOFTWARE INC,Information Technology,Equity,"19,080,400.50",0.18,"19,080,400.50","66,045.00",288.9,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DASH,DOORDASH INC CLASS A,Consumer Discretionary,Equity,"18,839,340.02",0.18,"18,839,340.02","322,481.00",58.42,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PLTR,PALANTIR TECHNOLOGIES INC CLASS A,Information Technology,Equity,"18,565,884.28",0.18,"18,565,884.28","2,374,154.00",7.82,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TER,TERADYNE INC,Information Technology,Equity,"18,262,331.08",0.17,"18,262,331.08","202,084.00",90.37,United States,NASDAQ,USD,1,USD,-
+SPLK,SPLUNK INC,Information Technology,Equity,"18,080,587.52",0.17,"18,080,587.52","210,044.00",86.08,United States,NASDAQ,USD,1,USD,-
+NTAP,NETAPP INC,Information Technology,Equity,"17,794,222.16",0.17,"17,794,222.16","280,489.00",63.44,United States,NASDAQ,USD,1,USD,-
+PTC,PTC INC,Information Technology,Equity,"16,956,536.52",0.16,"16,956,536.52","137,478.00",123.34,United States,NASDAQ,USD,1,USD,-
+AKAM,AKAMAI TECHNOLOGIES INC,Information Technology,Equity,"16,333,621.56",0.16,"16,333,621.56","199,873.00",81.72,United States,NASDAQ,USD,1,USD,-
+LDOS,LEIDOS HOLDINGS INC,Industrials,Equity,"16,189,487.48",0.15,"16,189,487.48","175,858.00",92.06,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SSNC,SS AND C TECHNOLOGIES HOLDINGS INC,Industrials,Equity,"15,916,745.43",0.15,"15,916,745.43","284,787.00",55.89,United States,NASDAQ,USD,1,USD,-
+GDDY,GODADDY INC CLASS A,Information Technology,Equity,"15,553,589.48",0.15,"15,553,589.48","201,916.00",77.03,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ENTG,ENTEGRIS INC,Information Technology,Equity,"14,059,573.92",0.13,"14,059,573.92","191,443.00",73.44,United States,NASDAQ,USD,1,USD,-
+DOX,AMDOCS LTD,Information Technology,Equity,"13,931,380.80",0.13,"13,931,380.80","153,768.00",90.6,United States,NASDAQ,USD,1,USD,-
+LSCC,LATTICE SEMICONDUCTOR CORP,Information Technology,Equity,"13,886,314.44",0.13,"13,886,314.44","175,067.00",79.32,United States,NASDAQ,USD,1,USD,-
+OKTA,OKTA INC CLASS A,Information Technology,Equity,"13,669,575.88",0.13,"13,669,575.88","195,196.00",70.03,United States,NASDAQ,USD,1,USD,-
+MANH,MANHATTAN ASSOCIATES INC,Information Technology,Equity,"13,492,886.40",0.13,"13,492,886.40","80,010.00",168.64,United States,NASDAQ,USD,1,USD,-
+WDC,WESTERN DIGITAL CORP,Information Technology,Equity,"13,438,643.40",0.13,"13,438,643.40","410,215.00",32.76,United States,NASDAQ,USD,1,USD,-
+DELL,DELL TECHNOLOGIES INC CLASS C,Information Technology,Equity,"13,042,444.00",0.12,"13,042,444.00","304,730.00",42.8,United States,New York Stock Exchange Inc.,USD,1,USD,-
+JBL,JABIL INC,Information Technology,Equity,"13,026,874.05",0.12,"13,026,874.05","167,333.00",77.85,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MTCH,MATCH GROUP INC,Communication,Equity,"12,586,917.71",0.12,"12,586,917.71","359,729.00",34.99,United States,NASDAQ,USD,1,USD,-
+GEN,GEN DIGITAL INC,Information Technology,Equity,"12,531,091.75",0.12,"12,531,091.75","705,977.00",17.75,United States,NASDAQ,USD,1,USD,-
+DOCU,DOCUSIGN INC,Information Technology,Equity,"12,513,920.60",0.12,"12,513,920.60","254,866.00",49.1,United States,NASDAQ,USD,1,USD,-
+XTSLA,BLK CSH FND TREASURY SL AGENCY,Cash and/or Derivatives,Money Market,"12,419,819.91",0.12,"12,419,819.91","12,419,820.00",1,United States,-,USD,1,USD,-
+TWLO,TWILIO INC CLASS A,Information Technology,Equity,"11,860,532.43",0.11,"11,860,532.43","224,759.00",52.77,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DT,DYNATRACE INC,Information Technology,Equity,"11,850,224.12",0.11,"11,850,224.12","279,223.00",42.44,United States,New York Stock Exchange Inc.,USD,1,USD,-
+QRVO,QORVO INC,Information Technology,Equity,"11,607,134.01",0.11,"11,607,134.01","128,497.00",90.33,United States,NASDAQ,USD,1,USD,-
+CDAY,CERIDIAN HCM HOLDING INC,Information Technology,Equity,"11,272,505.66",0.11,"11,272,505.66","176,602.00",63.83,United States,New York Stock Exchange Inc.,USD,1,USD,-
+BKI,BLACK KNIGHT INC,Information Technology,Equity,"10,848,883.20",0.1,"10,848,883.20","199,428.00",54.4,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ZS,ZSCALER INC,Information Technology,Equity,"10,173,998.52",0.1,"10,173,998.52","108,906.00",93.42,United States,NASDAQ,USD,1,USD,-
+FFIV,F5 INC,Information Technology,Equity,"10,148,678.94",0.1,"10,148,678.94","76,849.00",132.06,United States,NASDAQ,USD,1,USD,-
+KBR,KBR INC,Industrials,Equity,"9,969,506.28",0.1,"9,969,506.28","176,389.00",56.52,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NATI,NATIONAL INSTRUMENTS CORP,Information Technology,Equity,"9,823,263.06",0.09,"9,823,263.06","169,046.00",58.11,United States,NASDAQ,USD,1,USD,-
+CACI,CACI INTERNATIONAL INC CLASS A,Industrials,Equity,"9,351,654.76",0.09,"9,351,654.76","29,932.00",312.43,United States,New York Stock Exchange Inc.,USD,1,USD,-
+BSY,BENTLEY SYSTEMS INC CLASS B,Information Technology,Equity,"9,176,427.72",0.09,"9,176,427.72","217,554.00",42.18,United States,NASDAQ,USD,1,USD,-
+ARW,ARROW ELECTRONICS INC,Information Technology,Equity,"8,410,446.66",0.08,"8,410,446.66","74,886.00",112.31,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PSTG,PURE STORAGE INC CLASS A,Information Technology,Equity,"8,393,304.46",0.08,"8,393,304.46","367,966.00",22.81,United States,New York Stock Exchange Inc.,USD,1,USD,-
+U,UNITY SOFTWARE INC,Information Technology,Equity,"8,274,514.82",0.08,"8,274,514.82","304,546.00",27.17,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GWRE,GUIDEWIRE SOFTWARE INC,Information Technology,Equity,"8,037,099.72",0.08,"8,037,099.72","105,807.00",75.96,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GLOB,GLOBANT SA,Information Technology,Equity,"7,903,350.00",0.08,"7,903,350.00","52,500.00",150.54,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ZI,ZOOMINFO TECHNOLOGIES INC,Communication,Equity,"7,606,298.70",0.07,"7,606,298.70","354,606.00",21.45,United States,NASDAQ,USD,1,USD,-
+OLED,UNIVERSAL DISPLAY CORP,Information Technology,Equity,"7,460,207.04",0.07,"7,460,207.04","56,096.00",132.99,United States,NASDAQ,USD,1,USD,-
+WOLF,WOLFSPEED INC,Information Technology,Equity,"7,308,526.00",0.07,"7,308,526.00","158,881.00",46,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL,Industrials,Equity,"7,305,625.60",0.07,"7,305,625.60","71,344.00",102.4,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NTNX,NUTANIX INC CLASS A,Information Technology,Equity,"7,089,266.08",0.07,"7,089,266.08","296,374.00",23.92,United States,NASDAQ,USD,1,USD,-
+DBX,DROPBOX INC CLASS A,Information Technology,Equity,"6,945,220.80",0.07,"6,945,220.80","344,505.00",20.16,United States,NASDAQ,USD,1,USD,-
+DXC,DXC TECHNOLOGY,Information Technology,Equity,"6,933,128.70",0.07,"6,933,128.70","296,922.00",23.35,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PATH,UIPATH INC CLASS A,Information Technology,Equity,"6,920,276.68",0.07,"6,920,276.68","486,316.00",14.23,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SMAR,SMARTSHEET INC CLASS A,Information Technology,Equity,"6,733,716.82",0.06,"6,733,716.82","163,997.00",41.06,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DLB,DOLBY LABORATORIES INC CLASS A,Information Technology,Equity,"6,358,129.68",0.06,"6,358,129.68","76,264.00",83.37,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WIX,WIX.COM LTD,Information Technology,Equity,"6,187,627.60",0.06,"6,187,627.60","71,204.00",86.9,Israel,NASDAQ,USD,1,USD,-
+AZPN,ASPEN TECHNOLOGY INC,Information Technology,Equity,"6,094,390.50",0.06,"6,094,390.50","34,845.00",174.9,United States,NASDAQ,USD,1,USD,-
+TOST,TOAST INC CLASS A,Financials,Equity,"6,032,443.41",0.06,"6,032,443.41","330,183.00",18.27,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CRUS,CIRRUS LOGIC INC,Information Technology,Equity,"5,990,611.13",0.06,"5,990,611.13","70,669.00",84.77,United States,NASDAQ,USD,1,USD,-
+ESTC,ELASTIC NV,Information Technology,Equity,"5,826,561.95",0.06,"5,826,561.95","99,007.00",58.85,United States,New York Stock Exchange Inc.,USD,1,USD,-
+VRT,VERTIV HOLDINGS CLASS A,Industrials,Equity,"5,653,360.44",0.05,"5,653,360.44","390,156.00",14.49,United States,New York Stock Exchange Inc.,USD,1,USD,-
+FIVN,FIVE9 INC,Information Technology,Equity,"5,617,293.60",0.05,"5,617,293.60","90,660.00",61.96,United States,NASDAQ,USD,1,USD,-
+SNX,TD SYNNEX CORP,Information Technology,Equity,"5,327,706.51",0.05,"5,327,706.51","60,549.00",87.99,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CNXC,CONCENTRIX CORP,Industrials,Equity,"5,290,967.25",0.05,"5,290,967.25","54,687.00",96.75,United States,NASDAQ,USD,1,USD,-
+CLVT,CLARIVATE PLC,Industrials,Equity,"5,266,328.66",0.05,"5,266,328.66","610,943.00",8.62,United States,New York Stock Exchange Inc.,USD,1,USD,-
+COHR,COHERENT CORP,Information Technology,Equity,"5,148,420.48",0.05,"5,148,420.48","153,776.00",33.48,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TDC,TERADATA CORP,Information Technology,Equity,"5,077,007.67",0.05,"5,077,007.67","131,631.00",38.57,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NEWR,NEW RELIC INC,Information Technology,Equity,"5,013,038.80",0.05,"5,013,038.80","69,260.00",72.38,United States,New York Stock Exchange Inc.,USD,1,USD,-
+IAC,IAC INC,Communication,Equity,"5,009,479.02",0.05,"5,009,479.02","98,982.00",50.61,United States,NASDAQ,USD,1,USD,-
+PCOR,PROCORE TECHNOLOGIES INC,Information Technology,Equity,"4,917,559.30",0.05,"4,917,559.30","92,210.00",53.33,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AVT,AVNET INC,Information Technology,Equity,"4,796,536.00",0.05,"4,796,536.00","118,025.00",40.64,United States,NASDAQ,USD,1,USD,-
+APP,APPLOVIN CORP CLASS A,Information Technology,Equity,"4,773,372.76",0.05,"4,773,372.76","280,292.00",17.03,United States,NASDAQ,USD,1,USD,-
+GFS,GLOBALFOUNDRIES INC,Information Technology,Equity,"4,751,599.10",0.05,"4,751,599.10","81,910.00",58.01,United States,NASDAQ,USD,1,USD,-
+IPGP,IPG PHOTONICS CORP,Information Technology,Equity,"4,704,124.80",0.04,"4,704,124.80","42,456.00",110.8,United States,NASDAQ,USD,1,USD,-
+S,SENTINELONE INC CLASS A,Information Technology,Equity,"4,252,553.52",0.04,"4,252,553.52","249,563.00",17.04,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AYX,ALTERYX INC CLASS A,Information Technology,Equity,"3,982,468.14",0.04,"3,982,468.14","78,057.00",51.02,United States,New York Stock Exchange Inc.,USD,1,USD,-
+KD,KYNDRYL HOLDINGS INC,Information Technology,Equity,"3,703,509.67",0.04,"3,703,509.67","260,627.00",14.21,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CFLT,CONFLUENT INC CLASS A,Information Technology,Equity,"3,647,841.28",0.03,"3,647,841.28","158,464.00",23.02,United States,NASDAQ,USD,1,USD,-
+NCR,NCR CORP,Information Technology,Equity,"3,636,380.57",0.03,"3,636,380.57","166,883.00",21.79,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DNB,DUN BRADST HLDG INC,Industrials,Equity,"3,526,962.02",0.03,"3,526,962.02","320,051.00",11.02,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DV,DOUBLEVERIFY HOLDINGS INC,Information Technology,Equity,"3,275,166.54",0.03,"3,275,166.54","109,391.00",29.94,United States,New York Stock Exchange Inc.,USD,1,USD,-
+RNG,RINGCENTRAL INC CLASS A,Information Technology,Equity,"3,097,571.40",0.03,"3,097,571.40","111,745.00",27.72,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ALGM,ALLEGRO MICROSYSTEMS INC,Information Technology,Equity,"3,081,949.64",0.03,"3,081,949.64","86,669.00",35.56,United States,NASDAQ,USD,1,USD,-
+PEGA,PEGASYSTEMS INC,Information Technology,Equity,"2,388,324.92",0.02,"2,388,324.92","52,804.00",45.23,United States,NASDAQ,USD,1,USD,-
+NCNO,NCINO INC,Information Technology,Equity,"2,246,997.00",0.02,"2,246,997.00","90,060.00",24.95,United States,NASDAQ,USD,1,USD,-
+CCCS,CCC INTELLIGENT SOLUTIONS HOLDINGS,Information Technology,Equity,"1,977,896.96",0.02,"1,977,896.96","226,304.00",8.74,United States,NASDAQ,USD,1,USD,-
+PYCR,PAYCOR HCM INC,Information Technology,Equity,"1,843,156.52",0.02,"1,843,156.52","78,499.00",23.48,United States,NASDAQ,USD,1,USD,-
+JAMF,JAMF HOLDING CORP,Information Technology,Equity,"1,529,225.88",0.01,"1,529,225.88","83,382.00",18.34,United States,NASDAQ,USD,1,USD,-
+INFA,INFORMATICA INC CLASS A,Information Technology,Equity,"768,675.84",0.01,"768,675.84","50,044.00",15.36,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TWKS,THOUGHTWORKS HOLDING INC,Information Technology,Equity,"679,102.06",0.01,"679,102.06","111,146.00",6.11,United States,NASDAQ,USD,1,USD,-
+WFFUT,CASH COLLATERAL USD WFFUT,Cash and/or Derivatives,Cash Collateral and Margins,"642,000.00",0.01,"642,000.00","642,000.00",100,United States,-,USD,1,USD,23-Aug-17
+DH,DEFINITIVE HEALTHCARE CORP CLASS A,Health Care,Equity,"468,729.32",0,"468,729.32","43,684.00",10.73,United States,NASDAQ,USD,1,USD,-
+XASM3,E-MINI S&P COMM SVS SEL SEC JUN 23,Cash and/or Derivatives,Futures,0,0,"1,874,400.00",24,312.4,-,Chicago Mercantile Exchange,USD,1,USD,-
+IXTM3,EMINI TECHNOLOGY SELECT SECTOR JUN,Cash and/or Derivatives,Futures,0,0,"8,010,950.00",53,"1,511.50",-,Chicago Mercantile Exchange,USD,1,USD,-
+USD,USD CASH,Cash and/or Derivatives,Cash,"-2,301,397.84",-0.02,"-2,301,397.84","-2,301,398.00",100,United States,-,USD,1,USD,-
+ ,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
